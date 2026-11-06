@@ -3,7 +3,7 @@
 Programa em Python que estima a espessura do material isolante em um sistema de refrigeração. O cálculo parte das condições do ambiente e devolve a espessura em milímetros.
 
 ### Sobre a atividade
-Este projeto foi desenvolvido em **2023** para a disciplina de **Algoritmos e Estruturas de Dados I**, no **IFNMG Campus Salinas**. O exercício pedia duas implementações, uma em **C** e outra em **Python**, para calcular a espessura de isolamento necessária para evitar a condensação na superfície externa de um meio refrigerado. Este repositório reúne a versão em **Python**.
+Este projeto foi desenvolvido em **2023** para a disciplina de **Algoritmos e Estruturas de Dados I**, no **IFNMG Campus Salinas**. O exercício pedia duas implementações, uma em **C** e outra em **Python**, para calcular a espessura de isolamento necessária para evitar a condensação na superfície externa de um meio refrigerado. [Ver a versão em C](https://github.com/LucasLuidy/IFNMG-Calculadora-de-Espessura-de-Material-Isolante-em-C)
 
 O programa usa a temperatura do ar e a umidade relativa para estimar o ponto de orvalho. Depois, combina esse valor com a temperatura do meio refrigerado, a condutividade do isolante e os coeficientes de convecção para calcular a espessura.
 
